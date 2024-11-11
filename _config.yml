@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Guzuan/ Homepage"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Guzuan"
 description              : &description "personal description"
 url                      : https://gzaicebreak.github.io/guzuan.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,13 +22,13 @@ repository               : "guzuan.github.io"
 author:
   # Biographic information
   avatar           : "self.png"
-  name             : "Your Sidebar Name"
+  name             : "Guzuan 谷祖安"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Neu AI & Graphics Doctor"
+  location         : "Shenyang/China"
+  employer         : "Northeastern University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "gza13942631677@goutlook.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
