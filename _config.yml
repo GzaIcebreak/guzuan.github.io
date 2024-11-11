@@ -8,11 +8,11 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "GuZuan / Site Title"
+title                    : "Your Name / Site Title"
 title_separator          : "-"
-name                     : &name "GuZuan"
+name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : https://gzaicebreak.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "GzaIcebreak/guzuan.github.io"
 
@@ -21,7 +21,7 @@ repository               : "GzaIcebreak/guzuan.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "proflie.png"
+  avatar           : "profile.png"
   name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
