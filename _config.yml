@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Guzuan/ Homepage"
+title                    : "Zuan Gu/ Homepage"
 title_separator          : "-"
-name                     : &name "Guzuan"
+name                     : &name "Zuan Gu"
 description              : &description "personal description"
 url                      : https://gzaicebreak.github.io/guzuan.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,7 +22,7 @@ repository               : "guzuan.github.io"
 author:
   # Biographic information
   avatar           : "self.png"
-  name             : "Guzuan 谷祖安"
+  name             : "Zuan Gu 谷祖安"
   pronouns         : # example: "she/her"  
   bio              : "Neu AI & Graphics Doctor"
   location         : "Shenyang/China"
