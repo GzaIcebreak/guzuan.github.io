@@ -21,7 +21,7 @@ repository               : "GzaIcebreak/guzuan.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "self.png"
+  avatar           : "proflie.png"
   name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
