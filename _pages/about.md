@@ -26,7 +26,9 @@ Research of Crowd Behavior Simulation Methods Based on Relationships and Emotion
 ![CBSM](/images/LLM.png)
 
 3DSGEN Generating 3D Scenes Mesh Model from Natural Language
-![3dsgen](/images/3dsgen.mp4)
+<video src="images/3dsgen.mp4"></video>
+
 
 Edit Anything
-![edit](/images/editanything.mp4)
+<video src="images/editanything"></video>
+
