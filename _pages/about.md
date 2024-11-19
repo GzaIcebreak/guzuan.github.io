@@ -22,8 +22,8 @@ During my doctoral studies, I have been involved in the Central Universities Bas
 
 Selected Research
 ======
-Formatting Instructions for the 24th International Conference on Autonomous Agents and Multiagent Systems
-![](/images/editing-talk.png)
+Research of Crowd Behavior Simulation Methods Based on Relationships and Emotional Evolution
+![CBSM](/images/LLM.png)
 
 
 Site-wide configuration
