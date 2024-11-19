@@ -8,7 +8,12 @@ redirect_from:
 ---
 
 Hello there, my name is Zuan Gu, but you can call me Zaun. I am currently a Ph.D. candidate at Northeastern University, where my research primarily focuses on the field of computer graphics and AI-driven 3D content generation. It's a pleasure to meet you!
-
+<iframe
+    width="600"
+    height="400"
+    src="https://www.baidu.com"
+    title="Example Web Page">
+</iframe>
 
 
 A data-driven personal website
