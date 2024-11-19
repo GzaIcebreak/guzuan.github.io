@@ -23,7 +23,7 @@ During my doctoral studies, I have been involved in the Central Universities Bas
 Selected Research
 ======
 Research of Crowd Behavior Simulation Methods Based on Relationships and Emotional Evolution
-![CBSM](guzuan.github.io/images/LLM.png)
+![CBSM](images/LLM.png)
 
 3DSGEN Generating 3D Scenes Mesh Model from Natural Language
 <video id="video" controls="" preload="none" poster="封面">
